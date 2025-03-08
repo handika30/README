@@ -1,7 +1,6 @@
-const anglesOne = 80;
-const anglesTwo = 65;
+const angleA = 80;
+const angleB = 65;
 
-const triangle = 180 - (anglesOne + anglesTwo); // hasil: 35
+const angleC = 180 - angleA - angleB; // Menghitung sudut ketiga
 
-console.log(`Output: ${triangle}`);
-
+console.log(`Third angle: ${angleC}`); // Output: 35
