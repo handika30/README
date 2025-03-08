@@ -1,7 +1,5 @@
 # Tugas Web Client Development - Task 1
 
-Dokumen ini berisi daftar tugas pertama dalam mata kuliah *Web Client Development*, yang mencakup beberapa implementasi kode sederhana dalam JavaScript.
-
 ## 📌 Daftar Tugas
 
 ### 1️⃣ Menghitung Luas Persegi Panjang
